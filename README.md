@@ -11,3 +11,4 @@ Email: chris@chriscothern.com
 Website: https://chriscothern.com  
 WAIMS Python repo: https://github.com/dchriscothern/waims-python  
 WAIMS demo: https://waims-python-f6fephzhowfbugappyakrfj.streamlit.app/  
+https://dchriscothern.github.io/demo_reports/
